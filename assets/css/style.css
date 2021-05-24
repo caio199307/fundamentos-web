@@ -1,0 +1,70 @@
+/*
+Estilos da página index.html
+*/
+#tudo{
+    background-image:url(img\hotline.jpg);
+    width:100%;
+    height:992px;
+   }
+.center{
+    text-align: center;
+}
+.justify{
+    text-align: justify;
+}
+#p1{
+    font-size: 32;
+}
+
+.container{
+    display: flex;
+    flex-flow: row ;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+#menu li{
+    display: inline;
+    margin: 15px;
+   
+}
+#menu li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+#menu li a:hover{
+    color: gray;
+}
+.p-30{
+    padding: 30px;
+
+}
+
+.br-50{
+    border-radius: 50%;
+}
+.wh-300{
+    width: 350px;
+    height: 350px;
+}
+.tm-social{
+    width: 50px;
+    height: 50px;
+}
+.mb-50{
+    margin-bottom: 50px;
+}
+.wh-vice{
+    width: 256px;
+    height: 128px;
+}
+/*
+Estilos da página contato.html
+*/
+
+.ml-50{
+    margin-left: 50px;
+}
+
